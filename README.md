@@ -1,3 +1,3 @@
 # django-test
 
-[https://docs.docker.com/compose/django/] Docker guide
+[Docker guide](https://docs.docker.com/compose/django/)
